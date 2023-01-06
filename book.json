@@ -1,0 +1,23 @@
+[
+    {
+        "id": 4,
+        "text": "There was a boy.",
+        "audio_path": "\/home3\/wittypup\/public_html\/app-server\/books\/2. First book on the moon 2\/audio\/There was a boy..mp3",
+        "image_path": "\/home3\/wittypup\/public_html\/app-server\/books\/2. First book on the moon 2\/images\/There was a boy..jpg",
+        "book_id": 2
+    },
+    {
+        "id": 5,
+        "text": "He liked coding",
+        "audio_path": "\/home3\/wittypup\/public_html\/app-server\/books\/2. First book on the moon 2\/audio\/He liked coding.mp3",
+        "image_path": "\/home3\/wittypup\/public_html\/app-server\/books\/2. First book on the moon 2\/images\/He liked coding.png",
+        "book_id": 2
+    },
+    {
+        "id": 6,
+        "text": "But it wasn't so easy at first",
+        "audio_path": "\/home3\/wittypup\/public_html\/app-server\/books\/2. First book on the moon 2\/audio\/But it wasn't so easy at first.mp3",
+        "image_path": "\/home3\/wittypup\/public_html\/app-server\/books\/2. First book on the moon 2\/images\/But it wasn't so easy at first.jpg",
+        "book_id": 2
+    }
+]
